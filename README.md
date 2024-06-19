@@ -63,7 +63,7 @@
 
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" width="100" height="20'></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
@@ -76,13 +76,14 @@
 </p>
 
 ### 👉 Frameworks
+
 <p align="left">
 
 &emsp;&ensp;![React](https://img.shields.io/badge/React%20-58c4dc.svg?logo=react&logoColor=white)
 &emsp;&ensp;![React Native](https://img.shields.io/badge/React%20Native%20-58c4dc.svg?logo=react&logoColor=white)
 &emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-</p>
 
+</p>
 
 ### 👉 Software & Tools
 
@@ -141,4 +142,3 @@
 	<a href="https://www.linkedin.com/in/codydematth/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 </p>
-
