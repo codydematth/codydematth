@@ -91,7 +91,7 @@
   &emsp;
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira%20-1868db.svg?logo=jira&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Zoho" src="https://www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/zohologowhitebg.svg"  width="150" height="25'></a>
+  <a href="#"><img alt="Zoho" src="https://img.shields.io/badge/Zoho%20-f60014.svg?logo=zoho&logoColor=white"></a>
   &emsp;
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
   &emsp;
