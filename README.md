@@ -63,7 +63,7 @@
 
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" width="100" height="20'></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
@@ -91,7 +91,7 @@
   &emsp;
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira%20-1868db.svg?logo=jira&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Zoho" src="https://www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/zohologowhitebg.svg"></a>
+  <a href="#"><img alt="Zoho" src="https://www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/zohologowhitebg.svg"  width="100" height="20'></a>
   &emsp;
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
   &emsp;
