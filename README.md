@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Matthias Amire <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Oluwafemi Matthias A <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/codydematth/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;React+Developer;React+Native+Developer;Django+Developer&center=true&width=500&height=50&font=georgia"></a>
 </p>
