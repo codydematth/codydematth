@@ -80,9 +80,9 @@
 <p align="left">
 
 &emsp;&ensp;![React](https://img.shields.io/badge/React%20-58c4dc.svg?logo=react&logoColor=white)
-&emsp;&ensp;![NextJS](https://img.shields.io/badge/NextJS%20-58c4dc.svg?logo=Next.js&logoColor=white)
+&emsp;&ensp;![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 &emsp;&ensp;![React Native](https://img.shields.io/badge/React%20Native%20-58c4dc.svg?logo=react&logoColor=white)
-&emsp;&ensp;![FastAPI](https://img.shields.io/badge/fastAPI-%23092E20.svg?style=flat&logo=fastAPI&logoColor=white)
+&emsp;&ensp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 &emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 </p>
