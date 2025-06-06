@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Matthias Amire <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/codydematth/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;React+Developer;React+Native+Developer;Django+Developer&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/codydematth/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI Powered+Frontend+Developer;Software+Developer;React+Developer;NextJS+Developer;React+Native+Developer;FastAPI+Developer;Django+Developer&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">  I have the skills and expertise to bring your vision to life on the
@@ -81,6 +81,7 @@
 
 &emsp;&ensp;![React](https://img.shields.io/badge/React%20-58c4dc.svg?logo=react&logoColor=white)
 &emsp;&ensp;![React Native](https://img.shields.io/badge/React%20Native%20-58c4dc.svg?logo=react&logoColor=white)
+&emsp;&ensp;![FastAPI](https://img.shields.io/badge/fastAPI-%23092E20.svg?style=flat&logo=fastAPI&logoColor=white)
 &emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 </p>
