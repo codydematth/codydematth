@@ -3,12 +3,11 @@
  <a href="https://github.com/codydematth/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Powered+Frontend+Developer;Software+Developer;React+Native+Developer;FastAPI+Developer;Django+Developer&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">  I have the skills and expertise to bring your vision to life on the
-            web and mobile applications. From responsive design to custom functionality,
-            I dedicated to delivering high-quality websites that not only look
-            great but also perform flawlessly. Check out my projects tab to see
-            examples of work and get in touch to discuss how I can help you
-            achieve your online goals.</h4>
+<h4 align="center">  Software engineer focused on web, mobile, and APIs — shipping products that look sharp and hold up in production.
+
+I build and troubleshoot across the stack: Next.js, React Native, TypeScript, and backend integrations. Recent work includes matthiasamire.com and Almost Fair, a clip-ready web arcade at games.matthiasamire.com.
+
+Open to interesting frontend, mobile, and full-stack problems.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codydematth&label=Matthias's%20Profile%20Views%20&color=dc143c&style=plastic" alt="codydematth" /> </p>
 
