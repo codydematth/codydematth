@@ -6,7 +6,7 @@
 <h4 align="justify">  
 Software engineer focused on web, mobile, and APIs products that look sharp and hold up in production.
 
-I build and troubleshoot across the stack: Next.js, React Native, TypeScript, and backend integrations. Recent work includes Vaulvoss and Almost Fair, a clip-ready web arcade at games.matthiasamire.com.
+I build and troubleshoot across the stack: Next.js, React Native, TypeScript, and backend integrations. Recent work includes Vaultvoss and Almost Fair, a clip-ready web arcade at games.matthiasamire.com.
 
 Open to interesting frontend, mobile, and full-stack problems.</h4>
 <br>
