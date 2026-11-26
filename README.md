@@ -3,7 +3,7 @@
  <a href="https://github.com/codydematth/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;React/Next.js+Developer;React+Native+Developer;FastAPI+Developer;&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">  
+<h4 align="justify">  
 Software engineer focused on web, mobile, and APIs products that look sharp and hold up in production.
 
 I build and troubleshoot across the stack: Next.js, React Native, TypeScript, and backend integrations. Recent work includes Vaulvoss and Almost Fair, a clip-ready web arcade at games.matthiasamire.com.
